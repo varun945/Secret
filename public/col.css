@@ -1,0 +1,17 @@
+.a{
+	background-color: gray;
+	height: 800px;
+}
+.b{
+	background-color: pink;
+	height: 500px;
+}
+.c{
+	background-color: blue;
+	max-height: 50px;
+
+}
+.ac{
+	font-family: sans-serif;
+	
+}
